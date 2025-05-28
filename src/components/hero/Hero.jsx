@@ -196,7 +196,7 @@ export default function Hero() {
               </a>
 
               <a
-                href="https://docs.liquids.fi/technical-architecture"
+                href="https://app.liquids.fi"
                 title=""
                 className="inline-flex items-center justify-center px-6 py-2  text-base font-bold leading-7 text-black transition-all duration-200 bg-teal-500 border border-transparent rounded-xl hover:bg-gray-600 font-pj focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
                 role="button"
