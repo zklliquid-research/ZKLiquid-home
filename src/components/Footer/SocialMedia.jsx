@@ -4,7 +4,7 @@ export default function SocialMedia() {
     <ul className="flex items-center justify-center mt-8 space-x-3 sm:mt-12 lg:justify-end lg:mt-0">
       <li>
         <a
-          href="https://twitter.com/ZKLiquid"
+          href="https://twitter.com/Liquidfi"
           target="_blank"
           title="twitter"
           className="inline-flex items-center justify-center w-10 h-10 text-gray-900 transition-all duration-200 rounded-full bg-black  "
@@ -23,7 +23,7 @@ export default function SocialMedia() {
 
       <li>
         <a
-          href="https://t.me/zkliquid"
+          href="https://t.me/liquidfi"
           target="_blank"
           title="telegram"
           className="inline-flex items-center justify-center w-10 h-10 text-gray-900 transition-all duration-200 rounded-full bg-black  "
@@ -79,7 +79,7 @@ export default function SocialMedia() {
 
       <li>
         <a
-          href="https://github.com/zkliquid"
+          href="https://github.com/LiquidsFi"
           target="_blank"
           title="github"
           className="inline-flex items-center justify-center w-10 h-10 text-gray-900 transition-all duration-200 rounded-full bg-black"
